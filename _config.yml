@@ -1,0 +1,8 @@
+name: Waranga News
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: http://wnews.org.au/
+author:
+    name: Waranga News
+    twitter: #wnews
