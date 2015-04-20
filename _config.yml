@@ -2,7 +2,7 @@ name: Waranga News
 markdown: redcarpet
 highlighter: pygments
 permalink: /:year/:month/:title/
-url: http://wnews.org.au/
+url: http://wnews.github.io
 author:
     name: Waranga News
     twitter: #wnews
