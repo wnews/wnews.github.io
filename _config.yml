@@ -1,6 +1,6 @@
 name: Waranga News
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: /:year/:month/:title/
 url: http://wnews.org.au/
 author:
