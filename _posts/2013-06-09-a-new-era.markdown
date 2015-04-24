@@ -1,0 +1,24 @@
+---
+layout: media
+status: publish
+published: true
+title: A new era
+author:
+  display_name: Waranga News
+  login: admin
+  email: fortuna@micronode.com
+  url: ''
+author_login: admin
+author_email: fortuna@micronode.com
+wordpress_id: 784
+wordpress_url: http://wnews.org.au/?p=784
+date: '2013-06-09 23:29:02 +1000'
+date_gmt: '2013-06-09 13:29:02 +1000'
+categories:
+- Past Issues
+tags:
+- Front Page
+comments: []
+---
+
+<a href="http://wnews.org.au/wp-content/uploads/2013/06/frontpage-20130606.pdf"><img class="alignnone size-full wp-image-782" alt="Front Page - June 6, 2013" src="http://wnews.org.au/wp-content/uploads/2013/06/frontpage-20130606.png" width="624" height="907" /></a>
