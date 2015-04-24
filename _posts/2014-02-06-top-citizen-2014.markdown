@@ -1,0 +1,24 @@
+---
+layout: media
+status: publish
+published: true
+title: Top citizen 2014
+author:
+  display_name: Waranga News
+  login: admin
+  email: fortuna@micronode.com
+  url: ''
+author_login: admin
+author_email: fortuna@micronode.com
+wordpress_id: 897
+wordpress_url: http://wnews.org.au/?p=897
+date: '2014-02-06 13:56:13 +1100'
+date_gmt: '2014-02-06 02:56:13 +1100'
+categories:
+- Past Issues
+tags:
+- Front Page
+comments: []
+---
+
+<a href="http://wnews.org.au/wp-content/uploads/2014/02/wnews-frontpage-20140206.pdf"><img class="alignnone size-full wp-image-895" alt="Front Page - February 6, 2014" src="http://wnews.org.au/wp-content/uploads/2014/02/wnews-frontpage-20140206.jpg" width="624" height="907" /></a>
