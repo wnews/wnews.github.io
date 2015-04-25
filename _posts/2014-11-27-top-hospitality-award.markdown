@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: []
+image:
+  teaser: 2014/11/wnews20141127P01-188x188.jpg
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2015/01/wnews20141127P01.pdf"><img class="alignnone size-full wp-image-1077" alt="Front Page - November 27, 2014" src="http://wnews.org.au/wp-content/uploads/2015/01/wnews20141127P01.jpg" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2015/01/wnews20141127P01.pdf"><img class="alignnone size-full wp-image-1077" alt="Front Page - November 27, 2014" src="{{ site.url }}/images/2015/01/wnews20141127P01.jpg" width="624" height="907" /></a>

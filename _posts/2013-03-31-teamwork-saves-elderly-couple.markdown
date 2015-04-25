@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2013/03/frontpage-20130228.pdf"><img class="alignnone size-full wp-image-732" alt="Front Page - February 28, 2013" src="http://wnews.org.au/wp-content/uploads/2013/03/frontpage-20130228.png" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2013/03/frontpage-20130228.pdf"><img class="alignnone size-full wp-image-732" alt="Front Page - February 28, 2013" src="{{ site.url }}/images/2013/03/frontpage-20130228.png" width="624" height="907" /></a>

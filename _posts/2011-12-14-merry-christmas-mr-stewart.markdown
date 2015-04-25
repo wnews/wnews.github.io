@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2011/12/frontpage-20111215.pdf"><img class="alignnone size-full wp-image-513" title="Front Page - December 15, 2011" src="http://wnews.org.au/wp-content/uploads/2011/12/frontpage-20111215.png" alt="" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2011/12/frontpage-20111215.pdf"><img class="alignnone size-full wp-image-513" title="Front Page - December 15, 2011" src="{{ site.url }}/images/2011/12/frontpage-20111215.png" alt="" width="624" height="907" /></a>

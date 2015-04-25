@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2011/05/frontpage-20110519.pdf"><img class="alignnone size-full wp-image-325" title="Front Page - 19 May 2011" src="http://wnews.org.au/wp-content/uploads/2011/05/frontpage-20110519.png" alt="" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2011/05/frontpage-20110519.pdf"><img class="alignnone size-full wp-image-325" title="Front Page - 19 May 2011" src="{{ site.url }}/images/2011/05/frontpage-20110519.png" alt="" width="624" height="907" /></a>

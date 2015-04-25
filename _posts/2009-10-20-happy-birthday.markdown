@@ -24,4 +24,4 @@ image:
   feature: 2009/10/front-page-20080918.jpg
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2009/10/front-page-20080918.jpg"><img class="alignnone size-large wp-image-20" style="border: 0pt none;" title="Front Page - 18 September 2008" src="http://wnews.org.au/wp-content/uploads/2009/10/front-page-20080918-703x1024.jpg" alt="Front Page - 18 September 2008" width="562" height="819" /></a>
+<a href="{{ site.url }}/images/2009/10/front-page-20080918.jpg"><img class="alignnone size-large wp-image-20" style="border: 0pt none;" title="Front Page - 18 September 2008" src="{{ site.url }}/images/2009/10/front-page-20080918-703x1024.jpg" alt="Front Page - 18 September 2008" width="562" height="819" /></a>

@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2012/09/frontpage-20120920.pdf"><img class="alignnone size-full wp-image-654" title="Front Page - September 20, 2012" alt="" src="http://wnews.org.au/wp-content/uploads/2012/09/frontpage-20120920.png" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2012/09/frontpage-20120920.pdf"><img class="alignnone size-full wp-image-654" title="Front Page - September 20, 2012" alt="" src="{{ site.url }}/images/2012/09/frontpage-20120920.png" width="624" height="907" /></a>

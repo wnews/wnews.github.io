@@ -22,4 +22,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2009/10/Page-12-nance.jpg"><img class="alignnone size-large wp-image-41" style="border: 0pt none;" title="Nancy Burls" alt="Nancy Burls" src="http://wnews.org.au/wp-content/uploads/2009/10/Page-12-nance-703x1024.jpg" width="562" height="819" /></a>
+<a href="{{ site.url }}/images/2009/10/Page-12-nance.jpg"><img class="alignnone size-large wp-image-41" style="border: 0pt none;" title="Nancy Burls" alt="Nancy Burls" src="{{ site.url }}/images/2009/10/Page-12-nance-703x1024.jpg" width="562" height="819" /></a>

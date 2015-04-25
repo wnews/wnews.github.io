@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2011/04/frontpage-20110407.pdf"><img class="aligncenter size-full wp-image-167" title="Front Page - 7th April 2011" src="http://wnews.org.au/wp-content/uploads/2011/04/frontpage-20110407.png" alt="" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2011/04/frontpage-20110407.pdf"><img class="aligncenter size-full wp-image-167" title="Front Page - 7th April 2011" src="{{ site.url }}/images/2011/04/frontpage-20110407.png" alt="" width="624" height="907" /></a>

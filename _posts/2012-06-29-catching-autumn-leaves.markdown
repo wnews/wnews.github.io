@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2012/06/frontpage-20120628.pdf"><img class="alignnone size-full wp-image-616" title="Front Page - June 28, 2012" alt="" src="http://wnews.org.au/wp-content/uploads/2012/06/frontpage-20120628.png" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2012/06/frontpage-20120628.pdf"><img class="alignnone size-full wp-image-616" title="Front Page - June 28, 2012" alt="" src="{{ site.url }}/images/2012/06/frontpage-20120628.png" width="624" height="907" /></a>

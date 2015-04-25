@@ -33,4 +33,4 @@ comments:
     for bringing it to our attention.
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2010/07/July-22-2010.jpg"><img class="alignnone size-full wp-image-114" title="July 22, 2010" src="http://wnews.org.au/wp-content/uploads/2010/07/July-22-2010.jpg" alt="" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2010/07/July-22-2010.jpg"><img class="alignnone size-full wp-image-114" title="July 22, 2010" src="{{ site.url }}/images/2010/07/July-22-2010.jpg" alt="" width="624" height="907" /></a>
