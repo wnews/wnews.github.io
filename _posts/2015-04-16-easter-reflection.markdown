@@ -25,7 +25,7 @@ tags:
 comments: true
 image:
   teaser: 2015/04/wnews20150416P01-188x188.jpg
-  feature: 2015/04/wnews20150416P01.jpg
+  feature: 2015/04/wnews20150416P01-800x300.jpg
 ---
 
 <a href="{{ site.url }}/images/2015/04/wnews20150416P01.pdf"><img class="alignnone size-full wp-image-1104" src="{{ site.url }}/images/2015/04/wnews20150416P01.jpg" alt="Front Page - April 16, 2015" width="624" height="907" /></a>
