@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2009/10/history-1.jpg"><img class="alignnone size-full wp-image-31" style="border: 0pt none;" title="History" src="http://wnews.org.au/wp-content/uploads/2009/10/history-1.jpg" alt="History" width="568" height="853" /></a>
+<a href="{{ site.url }}/images/2009/10/history-1.jpg"><img class="alignnone size-full wp-image-31" style="border: 0pt none;" title="History" src="{{ site.url }}/images/2009/10/history-1.jpg" alt="History" width="568" height="853" /></a>

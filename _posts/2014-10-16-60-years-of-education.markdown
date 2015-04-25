@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: []
+image:
+  teaser: 2014/10/wnews20141016P01-188x188.jpg
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2014/10/wnews20141016P01.pdf"><img class="alignnone size-full wp-image-1063" alt="Front Page - October 16, 2014" src="http://wnews.org.au/wp-content/uploads/2014/10/wnews20141016P01.jpg" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2014/10/wnews20141016P01.pdf"><img class="alignnone size-full wp-image-1063" alt="Front Page - October 16, 2014" src="{{ site.url }}/images/2014/10/wnews20141016P01.jpg" width="624" height="907" /></a>

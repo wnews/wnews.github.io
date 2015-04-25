@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2011/03/frontpage-20110310.pdf"><img class="alignnone size-full wp-image-130" title="Front Page 10 March 2011" src="http://wnews.org.au/wp-content/uploads/2011/03/frontpage-20110310.png" alt="" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2011/03/frontpage-20110310.pdf"><img class="alignnone size-full wp-image-130" title="Front Page 10 March 2011" src="{{ site.url }}/images/2011/03/frontpage-20110310.png" alt="" width="624" height="907" /></a>

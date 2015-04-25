@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: []
+image:
+  teaser: 2015/04/wnews20140904P01-188x188.jpg
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2014/09/wnews20140904P01.pdf"><img class="alignnone size-full wp-image-1048" alt="Front Page - September 4, 2014" src="http://wnews.org.au/wp-content/uploads/2014/09/wnews20140904P01.jpg" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2014/09/wnews20140904P01.pdf"><img class="alignnone size-full wp-image-1048" alt="Front Page - September 4, 2014" src="{{ site.url }}/images/2014/09/wnews20140904P01.jpg" width="624" height="907" /></a>

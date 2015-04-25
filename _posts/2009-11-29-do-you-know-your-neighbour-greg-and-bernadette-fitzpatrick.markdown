@@ -22,4 +22,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2009/11/FITZPATRICK-Greg-and-Bernadette.jpg"><img class="alignnone size-large wp-image-74" style="border: 0pt none;" title="FITZPATRICK Greg and Bernadette" alt="FITZPATRICK Greg and Bernadette" src="http://wnews.org.au/wp-content/uploads/2009/11/FITZPATRICK-Greg-and-Bernadette-703x1024.jpg" width="562" height="819" /></a>
+<a href="{{ site.url }}/images/2009/11/FITZPATRICK-Greg-and-Bernadette.jpg"><img class="alignnone size-large wp-image-74" style="border: 0pt none;" title="FITZPATRICK Greg and Bernadette" alt="FITZPATRICK Greg and Bernadette" src="{{ site.url }}/images/2009/11/FITZPATRICK-Greg-and-Bernadette-703x1024.jpg" width="562" height="819" /></a>

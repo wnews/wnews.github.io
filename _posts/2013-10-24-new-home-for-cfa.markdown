@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2013/10/frontpage-20131024.pdf"><img class="alignnone size-full wp-image-864" alt="Front Page - October 24, 2013" src="http://wnews.org.au/wp-content/uploads/2013/10/frontpage-20131024.png" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2013/10/frontpage-20131024.pdf"><img class="alignnone size-full wp-image-864" alt="Front Page - October 24, 2013" src="{{ site.url }}/images/2013/10/frontpage-20131024.png" width="624" height="907" /></a>

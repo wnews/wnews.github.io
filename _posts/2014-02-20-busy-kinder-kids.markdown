@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: []
+image:
+  teaser: 2014/02/wnews20140220p01-188x188.jpg
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2014/02/wnews20140220p01.pdf"><img class="alignnone size-full wp-image-904" alt="Front Page - February 20, 2014" src="http://wnews.org.au/wp-content/uploads/2014/02/wnews20140220p01.jpg" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2014/02/wnews20140220p01.pdf"><img class="alignnone size-full wp-image-904" alt="Front Page - February 20, 2014" src="{{ site.url }}/images/2014/02/wnews20140220p01.jpg" width="624" height="907" /></a>

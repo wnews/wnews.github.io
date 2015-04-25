@@ -18,5 +18,5 @@ categories: []
 tags: []
 comments: []
 ---
-<p><a href="http://wnews.org.au/wp-content/uploads/2014/07/Accommodation.pdf"><img class="alignnone size-full wp-image-981" alt="Accommodation" src="http://wnews.org.au/wp-content/uploads/2014/07/Accommodation.jpg" width="624" height="907" /></a> <a href="http://wnews.org.au/wp-content/uploads/2014/07/Accommodation.pdf"><br />
+<p><a href="{{ site.url }}/images/2014/07/Accommodation.pdf"><img class="alignnone size-full wp-image-981" alt="Accommodation" src="{{ site.url }}/images/2014/07/Accommodation.jpg" width="624" height="907" /></a> <a href="{{ site.url }}/images/2014/07/Accommodation.pdf"><br />
 </a></p>

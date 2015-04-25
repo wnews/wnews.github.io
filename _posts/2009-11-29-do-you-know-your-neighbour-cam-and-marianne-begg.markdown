@@ -22,4 +22,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2009/11/BEGG-Camm-and-Marianne.jpg"><img class="alignnone size-large wp-image-71" style="border: 0pt none;" title="BEGG Camm and Marianne" alt="BEGG Camm and Marianne" src="http://wnews.org.au/wp-content/uploads/2009/11/BEGG-Camm-and-Marianne-703x1024.jpg" width="562" height="819" /></a>
+<a href="{{ site.url }}/images/2009/11/BEGG-Camm-and-Marianne.jpg"><img class="alignnone size-large wp-image-71" style="border: 0pt none;" title="BEGG Camm and Marianne" alt="BEGG Camm and Marianne" src="{{ site.url }}/images/2009/11/BEGG-Camm-and-Marianne-703x1024.jpg" width="562" height="819" /></a>

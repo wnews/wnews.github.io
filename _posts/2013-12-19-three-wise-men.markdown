@@ -21,4 +21,4 @@ tags:
 comments: []
 ---
 
-<a href="http://wnews.org.au/wp-content/uploads/2013/12/frontpage-20131219.pdf"><img class="alignnone size-full wp-image-885" alt="Front Page - December 19, 2013" src="http://wnews.org.au/wp-content/uploads/2013/12/frontpage-20131219.png" width="624" height="907" /></a>
+<a href="{{ site.url }}/images/2013/12/frontpage-20131219.pdf"><img class="alignnone size-full wp-image-885" alt="Front Page - December 19, 2013" src="{{ site.url }}/images/2013/12/frontpage-20131219.png" width="624" height="907" /></a>
