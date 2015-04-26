@@ -16,7 +16,7 @@ author_login: admin
 author_email: fortuna@micronode.com
 wordpress_id: 1110
 wordpress_url: http://wnews.org.au/?p=1110
-modified: '2015-04-16 20:52:22 +1000'
+date: '2015-04-16 20:52:22 +1000'
 date_gmt: '2015-04-16 10:52:22 +1000'
 categories:
 - Past-Issues
