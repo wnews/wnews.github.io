@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2009/11/Page-01-small-file-size.jpg"><img class="alignnone size-large wp-image-57" style="border: 0pt none;" title="Page 01 small file size" src="{{ site.url }}/images/2009/11/Page-01-small-file-size-704x1024.jpg" alt="Page 01 small file size" width="563" height="819" /></a>

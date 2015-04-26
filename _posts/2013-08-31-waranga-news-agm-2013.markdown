@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Gallery
-comments: []
+comments: true
 ---
 
 [gallery ids="826,825,824,823,822,821,820,819,818,817,816,815"]

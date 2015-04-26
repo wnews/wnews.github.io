@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 image:
   teaser: 2014/10/wnews20141016P01-188x188.jpg
 ---

@@ -17,7 +17,7 @@ date_gmt: '2011-09-21 21:13:08 +1000'
 categories:
 - past-issues
 tags: []
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2011/09/frontpage-20110922.pdf"><img class="alignnone size-full wp-image-429" title="Front Page - September 22, 2011" src="{{ site.url }}/images/2011/09/frontpage-20110922.png" alt="" width="624" height="907" /></a>

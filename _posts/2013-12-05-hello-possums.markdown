@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2013/12/frontpage-20131205.pdf"><img class="alignnone size-full wp-image-880" alt="Front Page - December 5, 2013" src="{{ site.url }}/images/2013/12/frontpage-20131205.png" width="624" height="907" /></a>

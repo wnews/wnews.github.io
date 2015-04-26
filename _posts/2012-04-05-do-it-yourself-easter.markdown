@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2012/04/frontpage-20120405.pdf"><img class="alignnone size-full wp-image-574" title="Front Page - 5 April, 2012" src="{{ site.url }}/images/2012/04/frontpage-20120405.png" alt="" width="624" height="907" /></a>

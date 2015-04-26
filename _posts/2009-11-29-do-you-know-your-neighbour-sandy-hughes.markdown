@@ -19,7 +19,7 @@ categories:
 tags:
 - Articles
 - Know Your Neigbour
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2009/11/snady-hughes.jpg"><img class="alignnone size-large wp-image-65" style="border: 0pt none;" title="sandy hughes" alt="sandy hughes" src="{{ site.url }}/images/2009/11/snady-hughes-703x1024.jpg" width="562" height="819" /></a>

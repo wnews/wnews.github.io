@@ -17,7 +17,7 @@ date_gmt: '2011-07-31 12:36:42 +1000'
 categories:
 - past-issues
 tags: []
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2011/07/frontpage-20110728.pdf"><img class="alignnone size-full wp-image-387" title="Front Page - 28 July 2011" src="{{ site.url }}/images/2011/07/frontpage-20110728.png" alt="" width="624" height="907" /></a>

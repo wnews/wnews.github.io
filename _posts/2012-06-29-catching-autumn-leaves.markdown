@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2012/06/frontpage-20120628.pdf"><img class="alignnone size-full wp-image-616" title="Front Page - June 28, 2012" alt="" src="{{ site.url }}/images/2012/06/frontpage-20120628.png" width="624" height="907" /></a>
