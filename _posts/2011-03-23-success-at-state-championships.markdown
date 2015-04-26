@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2011/03/frontpage-20110324.pdf"><img class="aligncenter size-full wp-image-159" title="Front Page 24 March 2011" src="{{ site.url }}/images/2011/03/frontpage-20110324.png" alt="" width="624" height="907" /></a>

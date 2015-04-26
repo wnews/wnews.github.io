@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2011/11/frontpage-20111103.pdf"><img class="alignnone size-full wp-image-444" title="Front Page - November 3, 2011" src="{{ site.url }}/images/2011/11/frontpage-20111103.png" alt="" width="624" height="907" /></a>

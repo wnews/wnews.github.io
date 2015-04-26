@@ -19,7 +19,7 @@ categories:
 tags:
 - Articles
 - Know Your Neigbour
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2009/11/Page-12-20080626.jpg"><img class="alignnone size-large wp-image-68" style="border: 0pt none;" title="Page 12 - 20080626" alt="Page 12 - 20080626" src="{{ site.url }}/images/2009/11/Page-12-20080626-703x1024.jpg" width="562" height="819" /></a>

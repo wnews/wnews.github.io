@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2012/11/wnews20121115p01.pdf"><img class="alignnone size-full wp-image-693" title="Front Page - November 15, 2012" alt="" src="{{ site.url }}/images/2012/11/wnews20121115p01.png" width="624" height="907" /></a>

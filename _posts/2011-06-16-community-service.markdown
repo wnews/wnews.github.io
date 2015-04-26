@@ -17,7 +17,7 @@ date_gmt: '2011-06-16 12:37:54 +1000'
 categories:
 - past-issues
 tags: []
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2011/06/frontpage-20110616.pdf"><img class="alignnone size-full wp-image-364" title="Front Page - 16 June 2011" src="{{ site.url }}/images/2011/06/frontpage-20110616.png" alt="" width="624" height="907" /></a>

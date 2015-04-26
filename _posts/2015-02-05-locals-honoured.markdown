@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 image:
   teaser: 2015/02/wnews20150205P01-188x188.jpg
 ---

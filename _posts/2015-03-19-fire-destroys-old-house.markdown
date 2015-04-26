@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 image:
   teaser: 2015/03/wnews20150319P01-188x188.jpg
 ---

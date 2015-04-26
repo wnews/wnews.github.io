@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2013/09/frontpage-20130915.pdf"><img class="alignnone size-full wp-image-844" alt="Front Page - September 15, 2013" src="{{ site.url }}/images/2013/09/frontpage-20130915.png" width="624" height="907" /></a>

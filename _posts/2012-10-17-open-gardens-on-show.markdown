@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Front Page
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2012/10/frontpage-20121018.pdf"><img class="alignnone size-full wp-image-665" title="Front Page - October 18, 2012" src="{{ site.url }}/images/2012/10/frontpage-20121018.png" alt="" width="624" height="907" /></a>

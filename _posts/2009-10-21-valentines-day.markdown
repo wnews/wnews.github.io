@@ -18,7 +18,7 @@ categories:
 - past-issues
 tags:
 - Articles
-comments: []
+comments: true
 ---
 
 <a href="{{ site.url }}/images/2009/10/page-3-ind.jpg"><img class="alignnone size-large wp-image-36" style="border: 0pt none;" title="Valentine's Day" src="{{ site.url }}/images/2009/10/page-3-ind-703x1024.jpg" alt="Valentine's Day" width="562" height="819" /></a>
