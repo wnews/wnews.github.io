@@ -15,7 +15,7 @@ wordpress_url: http://wnews.org.au/?p=64
 date: '2009-11-29 16:17:06 +1100'
 date_gmt: '2009-11-29 05:17:06 +1100'
 categories:
-- Past Issues
+- past-issues
 tags:
 - Articles
 - Know Your Neigbour

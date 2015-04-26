@@ -15,7 +15,7 @@ wordpress_url: http://wnews.org.au/?p=619
 date: '2012-06-29 22:30:40 +1000'
 date_gmt: '2012-06-29 12:30:40 +1000'
 categories:
-- Past Issues
+- past-issues
 tags:
 - Front Page
 comments: []

@@ -15,7 +15,7 @@ wordpress_url: http://wnews.org.au/?p=30
 date: '2009-10-21 22:15:03 +1100'
 date_gmt: '2009-10-21 11:15:03 +1100'
 categories:
-- Past Issues
+- past-issues
 tags:
 - Articles
 comments: []
