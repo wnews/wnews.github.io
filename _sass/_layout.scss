@@ -88,6 +88,7 @@
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
+		padding-left: 10px;
 	}
 	@include media($large) {
 		@include span-columns(5);
