@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  teaser: images/2013/11/frontpage-20131107-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2013/11/frontpage-20131107.pdf"><img class="alignnone size-full wp-image-868" alt="Front Page - November 7, 2013" src="{{ site.url }}/images/2013/11/frontpage-20131107.png" width="624" height="907" /></a>
