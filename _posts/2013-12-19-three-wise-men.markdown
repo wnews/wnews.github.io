@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  teaser: images/2013/12/frontpage-20131219-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2013/12/frontpage-20131219.pdf"><img class="alignnone size-full wp-image-885" alt="Front Page - December 19, 2013" src="{{ site.url }}/images/2013/12/frontpage-20131219.png" width="624" height="907" /></a>

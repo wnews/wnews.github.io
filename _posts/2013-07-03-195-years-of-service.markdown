@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  teaser: images/2013/07/frontpage-20130704-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2013/07/frontpage-20130704.pdf"><img class="alignnone size-full wp-image-791" alt="Front Page - July 4, 2013" src="{{ site.url }}/images/2013/07/frontpage-20130704.png" width="624" height="907" /></a>
