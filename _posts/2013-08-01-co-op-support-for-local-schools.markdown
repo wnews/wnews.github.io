@@ -20,7 +20,7 @@ tags:
 - Front Page
 comments: true
 image:
-  teaser: images/2013/08/frontpage-20130801-188x188.png
+  teaser: 2013/08/frontpage-20130801-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2013/08/frontpage-20130801.pdf"><img class="alignnone size-full wp-image-805" alt="Front Page - August 01, 2013" src="{{ site.url }}/images/2013/08/frontpage-20130801.png" width="624" height="907" /></a>

@@ -20,7 +20,7 @@ tags:
 - Front Page
 comments: true
 image:
-  teaser: images/2013/05/frontpage-20130523-188x188.png
+  teaser: 2013/05/frontpage-20130523-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2013/05/frontpage-20130523.pdf"><img class="alignnone size-full wp-image-770" alt="Front Page - May 23, 2013" src="{{ site.url }}/images/2013/05/frontpage-20130523.png" width="624" height="907" /></a>

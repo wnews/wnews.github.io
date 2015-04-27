@@ -20,7 +20,7 @@ tags:
 - Front Page
 comments: true
 image:
-  teaser: images/2013/11/frontpage-20131121-188x188.png
+  teaser: 2013/11/frontpage-20131121-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2013/11/frontpage-20131121.pdf"><img class="alignnone size-full wp-image-875" alt="Front Page - November 21, 2013" src="{{ site.url }}/images/2013/11/frontpage-20131121.png" width="624" height="907" /></a>
