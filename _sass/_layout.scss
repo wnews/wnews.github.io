@@ -351,6 +351,13 @@
 	}
 }
 
+.front-page {
+	width: 100%;
+	@include media($medium) {
+		width: 60%;
+	}
+}
+
 .sidebar {
 	display: none;
 	@include media($medium) {
