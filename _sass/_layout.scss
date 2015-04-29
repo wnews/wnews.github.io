@@ -350,3 +350,13 @@
 		}
 	}
 }
+
+.sidebar {
+	display: none;
+	@include media($medium) {
+		@include span-columns(5);
+	}
+	@include media($large) {
+		@include span-columns(3);
+	}
+}
