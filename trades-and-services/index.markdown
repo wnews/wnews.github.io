@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 status: publish
 published: true
 title: Trades and Services
