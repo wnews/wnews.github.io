@@ -7,7 +7,7 @@ banner: logo.png
 #teaser: logo.png # 400x250 px default teaser image used in image archive grid
 locale:
 #url: http://www.wnews.org.au
-url: //wnews.github.io
+url: http://wnews.github.io
 #url: http://localhost:63342/wnews.github.io/_site
 
 # Jekyll configuration
