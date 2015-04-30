@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  teaser: 2012/04/frontpage-20120422-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2012/04/frontpage-20120422.pdf"><img class="alignnone size-full wp-image-560" title="Front Page - 22 March, 2012" src="{{ site.url }}/images/2012/04/frontpage-20120422.png" alt="" width="624" height="907" /></a>

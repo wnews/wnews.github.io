@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  teaser: 2011/10/frontpage-20111006-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2011/10/frontpage-20111006.pdf"><img class="alignnone size-full wp-image-433" title="Front Page - October 6, 2011" src="{{ site.url }}/images/2011/10/frontpage-20111006.png" alt="" width="624" height="907" /></a>

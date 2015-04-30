@@ -18,6 +18,8 @@ categories:
 - past-issues
 tags: []
 comments: true
+image:
+  teaser: 2011/09/frontpage-20110922-188x188.png
 ---
 
 <a href="{{ site.url }}/images/2011/09/frontpage-20110922.pdf"><img class="alignnone size-full wp-image-429" title="Front Page - September 22, 2011" src="{{ site.url }}/images/2011/09/frontpage-20110922.png" alt="" width="624" height="907" /></a>
