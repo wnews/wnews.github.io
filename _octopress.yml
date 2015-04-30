@@ -1,0 +1,10 @@
+# Default extensions
+post_ext: markdown
+page_ext: markdown
+
+# Found in _templates/
+post_layout: media
+page_layout: article
+
+# Format titles with titlecase?
+titlecase: true
