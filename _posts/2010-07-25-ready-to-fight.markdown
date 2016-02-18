@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  feature: /s/2rqtmot90c7fjbl/8-July-2010.jpg
 ---
 
 <a href="{{ site.url }}/images/2010/07/8-July-2010.jpg"><img class="alignnone size-full wp-image-111" title="8 July 2010" src="{{ site.url }}/images/2010/07/8-July-2010.jpg" alt="" width="624" height="907" /></a>

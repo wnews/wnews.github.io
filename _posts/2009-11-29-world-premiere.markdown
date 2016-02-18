@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  feature: /s/9jphmu2xo8h0sje/page-01-ind.jpg
 ---
 
 <a href="{{ site.url }}/images/2009/11/page-01-ind.jpg"><img class="alignnone size-large wp-image-61" style="border: 0pt none;" title="page 01 ind" src="{{ site.url }}/images/2009/11/page-01-ind-703x1024.jpg" alt="page 01 ind" width="562" height="819" /></a>

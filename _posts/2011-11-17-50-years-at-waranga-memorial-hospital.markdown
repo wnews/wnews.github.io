@@ -21,6 +21,7 @@ tags:
 comments: true
 image:
   teaser: 2011/12/frontpage-20111117-188x188.png
+  feature: /s/kagduar014d6vtz/frontpage-20111117.png
 ---
 
 <a href="{{ site.url }}/images/2011/11/frontpage-20111117.pdf"><img class="alignnone size-full wp-image-449" title="Front Page - November 17, 2011" alt="" src="{{ site.url }}/images/2011/11/frontpage-20111117.png" width="624" height="907" /></a>

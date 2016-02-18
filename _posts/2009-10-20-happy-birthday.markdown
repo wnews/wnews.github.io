@@ -1,5 +1,5 @@
 ---
-layout: front_page
+layout: media
 status: publish
 published: true
 title: Happy Birthday

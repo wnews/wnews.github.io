@@ -21,6 +21,7 @@ tags:
 comments: true
 image:
   teaser: 2011/05/frontpage-20110505-188x188.png
+  feature: /s/73zapx61ulnz17e/frontpage-20110505.png
 ---
 
 <a href="{{ site.url }}/images/2011/05/frontpage-20110505.png"><img class="alignnone size-full wp-image-315" title="Front Page - 5 March 2011" src="{{ site.url }}/images/2011/05/frontpage-20110505.png" alt="" width="624" height="907" /></a>

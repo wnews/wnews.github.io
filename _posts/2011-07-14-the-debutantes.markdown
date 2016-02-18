@@ -20,6 +20,7 @@ tags: []
 comments: true
 image:
   teaser: 2011/07/frontpage-20110714-188x188.png
+  feature: /s/kn9zda80z0bjpiw/frontpage-20110714.png
 ---
 
 <a href="{{ site.url }}/images/2011/07/frontpage-20110714.pdf"><img class="alignnone size-full wp-image-379" title="Front Page - 14th July 2011" src="{{ site.url }}/images/2011/07/frontpage-20110714.png" alt="" width="624" height="907" /></a>

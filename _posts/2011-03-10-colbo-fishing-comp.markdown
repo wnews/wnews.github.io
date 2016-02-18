@@ -21,6 +21,7 @@ tags:
 comments: true
 image:
   teaser: 2011/03/frontpage-20110310-188x188.png
+  feature: /s/2bkqmu83qipn04b/frontpage-20110310.png
 ---
 
 <a href="{{ site.url }}/images/2011/03/frontpage-20110310.pdf"><img class="alignnone size-full wp-image-130" title="Front Page 10 March 2011" src="{{ site.url }}/images/2011/03/frontpage-20110310.png" alt="" width="624" height="907" /></a>

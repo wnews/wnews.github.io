@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  feature: /s/vigc4vpgudo8zpm/page-01-may-29.jpg
 ---
 
 <a href="{{ site.url }}/images/2009/11/page-01-may-29.jpg"><img class="alignnone size-large wp-image-46" style="border: 0pt none;" title="page 01 may 29" src="{{ site.url }}/images/2009/11/page-01-may-29-703x1024.jpg" alt="page 01 may 29" width="552" height="803" /></a>

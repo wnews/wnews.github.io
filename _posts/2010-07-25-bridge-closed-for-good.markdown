@@ -19,6 +19,8 @@ categories:
 tags:
 - Front Page
 comments: true
+image:
+  feature: /s/6v8s1ua3mikxgr3/24-June-2010.jpg
 ---
 
 <a href="{{ site.url }}/images/2010/07/24-June-2010.jpg"><img class="alignnone size-full wp-image-113" title="24 June 2010" src="{{ site.url }}/images/2010/07/24-June-2010.jpg" alt="" width="624" height="907" /></a>

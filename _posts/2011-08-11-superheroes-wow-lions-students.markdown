@@ -21,6 +21,7 @@ tags:
 comments: true
 image:
   teaser: 2011/08/frontpage-20110811-188x188.png
+  feature: /s/dlxf0yqff3wmsaw/frontpage-20110811.png
 ---
 
 <a href="{{ site.url }}/images/2011/08/frontpage-20110811.pdf"><img class="alignnone size-full wp-image-395" title="Front Page - 11 August 2011" src="{{ site.url }}/images/2011/08/frontpage-20110811.png" alt="" width="624" height="907" /></a>
