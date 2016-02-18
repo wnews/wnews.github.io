@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: front_page
 status: publish
 published: true
 title: Happy Birthday
@@ -21,7 +21,6 @@ tags:
 comments: true
 image:
   teaser: 2009/10/front-page-20080918-150x150.jpg
-  feature: 2009/10/front-page-20080918.jpg
+  feature: /s/qhiryk4ph4fy75c/front-page-20080918.jpg
 ---
-
-<a href="{{ site.url }}/images/2009/10/front-page-20080918.jpg"><img class="alignnone size-large wp-image-20" style="border: 0pt none;" title="Front Page - 18 September 2008" src="{{ site.url }}/images/2009/10/front-page-20080918-703x1024.jpg" alt="Front Page - 18 September 2008" width="562" height="819" /></a>
+<a href="{{ site.mediaurl }}/s/qhiryk4ph4fy75c/front-page-20080918.jpg?raw=1"><img class="alignnone size-large wp-image-20" style="border: 0pt none;" title="Front Page - 18 September 2008" src="{{ site.mediaurl }}/s/qhiryk4ph4fy75c/front-page-20080918.jpg?raw=1" alt="Front Page - 18 September 2008" width="562" height="819" /></a>

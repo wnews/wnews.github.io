@@ -1,42 +1,27 @@
-# Site wide configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
 title: Waranga News
+email: contact@wnews.org.au
 description: Serving the Waranga community for over 30 years
-logo: wnews.png # 120x120 px default image used for Twitter summary card
-banner: logo.png
-#teaser: logo.png # 400x250 px default teaser image used in image archive grid
-locale:
-#url: http://www.wnews.org.au
-url: http://wnews.github.io
-#url: http://localhost:63342/wnews.github.io/_site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wnews.github.io" # the base hostname & protocol for your site
+twitter_username: WarangaNews
+github_username:  wnews
 
-# Jekyll configuration
+# Media settings
+mediaurl: https://www.dropbox.com
 
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: pygments
+# Build settings
+markdown: kramdown
+
 gems:
   - jekyll-sitemap
-
-
-# Site owner
-owner:
-  name: Ben Fortuna
-  email: fortuna@micronode.com
-  twitter: WarangaNews
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname: waranganews
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
 
 ##set this to enable google analytics
 ga_id: UA-402774-11
