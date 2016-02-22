@@ -20,7 +20,11 @@ mediaurl: https://www.dropbox.com
 # Build settings
 markdown: kramdown
 
+paginate: 5
+paginate_path: "/past-issues/page:num/"
+
 gems:
+  - jekyll-paginate
   - jekyll-sitemap
 
 ##set this to enable google analytics
