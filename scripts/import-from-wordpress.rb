@@ -8,7 +8,7 @@ JekyllImport::Importers::WordPress.run({
   "socket"   => "",
   "table_prefix"   => "wp_i1t52b_",
   "site_prefix"    => "",
-  "clean_entities" => true,
+  "clean_entities" => false,
   "comments"       => true,
   "categories"     => true,
   "tags"           => true,
