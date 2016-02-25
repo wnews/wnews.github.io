@@ -2,7 +2,13 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">
+      {% if site.banner %}
+      <img src="{{ site.url }}/images/{{ site.banner }}" title="{{ site.title }}"/>
+      {% else %}
+      {{ site.title }}
+      {% endif %}
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -16,9 +22,9 @@
       <div class="trigger">
         {% assign pages = site.pages | sort: 'weight' %}
         {% for my_page in pages %}
-          {% unless my_page.exclude %}
+          {% unless my_page.exclude or my_page.url contains '/page' %}
             {% if my_page.title %}
-            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+              <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}
           {% endunless %}
         {% endfor %}
