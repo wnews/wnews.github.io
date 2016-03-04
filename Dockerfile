@@ -4,6 +4,8 @@ WORKDIR /srv/jekyll
 
 EXPOSE 4000 80
 
+ENV BUNDLE_PATH /bundle
+
 COPY Gemfile ./
 
 COPY _config.yml index.html favicon.ico ./
