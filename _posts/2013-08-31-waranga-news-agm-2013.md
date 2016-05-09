@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Waranga News AGM 2013
@@ -15,10 +15,9 @@ wordpress_url: http://wnews.org.au/?p=827
 date: '2013-08-31 22:20:56 +1000'
 date_gmt: '2013-08-31 12:20:56 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Gallery
-comments: true
+comments: []
 ---
-
-[gallery ids="826,825,824,823,822,821,820,819,818,817,816,815"]
+<p>[gallery ids="826,825,824,823,822,821,820,819,818,817,816,815"]</p>

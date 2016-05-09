@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: A Brief History
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=30
 date: '2009-10-21 22:15:03 +1100'
 date_gmt: '2009-10-21 11:15:03 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Articles
-comments: true
-image:
-  feature: /s/7eslnds7o14uvd0/history-1.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2009/10/history-1.jpg"><img class="alignnone size-full wp-image-31" style="border: 0pt none;" title="History" src="{{ site.url }}/images/2009/10/history-1.jpg" alt="History" width="568" height="853" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2009/10/history-1.jpg"><img class="alignnone size-full wp-image-31" style="border: 0pt none;" title="History" src="http://wnews.org.au/wp-content/uploads/2009/10/history-1.jpg" alt="History" width="568" height="853" /></a></p>

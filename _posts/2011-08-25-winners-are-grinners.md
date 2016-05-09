@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Winners are Grinners
@@ -15,13 +15,9 @@ wordpress_url: http://wnews.org.au/?p=406
 date: '2011-08-25 00:39:18 +1000'
 date_gmt: '2011-08-24 14:39:18 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2011/08/frontpage-20110825-188x188.png
-  feature: /s/h1q3c0nsa3vowai/frontpage-20110825.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2011/08/frontpage-20110825.pdf"><img class="alignnone size-full wp-image-405" title="Front Page - 25 August 2011" src="{{ site.url }}/images/2011/08/frontpage-20110825.png" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2011/08/frontpage-20110825.pdf"><img class="alignnone size-full wp-image-405" title="Front Page - 25 August 2011" src="http://wnews.org.au/wp-content/uploads/2011/08/frontpage-20110825.png" alt="" width="624" height="907" /></a></p>

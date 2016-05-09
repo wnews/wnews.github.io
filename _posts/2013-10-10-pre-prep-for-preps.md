@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Pre-prep for preps
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=857
 date: '2013-10-10 23:32:32 +1100'
 date_gmt: '2013-10-10 12:32:32 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/10/frontpage-20131010-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/10/frontpage-20131010.pdf"><img class="alignnone size-full wp-image-855" alt="Front Page - October 10, 2013" src="{{ site.url }}/images/2013/10/frontpage-20131010.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/10/frontpage-20131010.pdf"><img class="alignnone size-full wp-image-855" alt="Front Page - October 10, 2013" src="http://wnews.org.au/wp-content/uploads/2013/10/frontpage-20131010.png" width="624" height="907" /></a></p>

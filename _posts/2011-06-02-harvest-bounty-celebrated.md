@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Harvest Bounty Celebrated
@@ -15,13 +15,9 @@ wordpress_url: http://wnews.org.au/?p=355
 date: '2011-06-02 11:45:25 +1000'
 date_gmt: '2011-06-02 01:45:25 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2011/06/frontpage-20110602-188x188.png
-  feature: /s/wm8ldtvw94ri1qb/frontpage-20110602.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2011/06/frontpage-20110602.pdf"><img class="alignnone size-full wp-image-352" title="Front Page - 2nd June 2011" src="{{ site.url }}/images/2011/06/frontpage-20110602.png" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2011/06/frontpage-20110602.pdf"><img class="alignnone size-full wp-image-352" title="Front Page - 2nd June 2011" src="http://wnews.org.au/wp-content/uploads/2011/06/frontpage-20110602.png" alt="" width="624" height="907" /></a></p>

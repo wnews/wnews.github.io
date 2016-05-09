@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Do it yourself easter
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=576
 date: '2012-04-05 23:01:21 +1000'
 date_gmt: '2012-04-05 13:01:21 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2012/04/frontpage-20120405-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2012/04/frontpage-20120405.pdf"><img class="alignnone size-full wp-image-574" title="Front Page - 5 April, 2012" src="{{ site.url }}/images/2012/04/frontpage-20120405.png" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2012/04/frontpage-20120405.pdf"><img class="alignnone size-full wp-image-574" title="Front Page - 5 April, 2012" src="http://wnews.org.au/wp-content/uploads/2012/04/frontpage-20120405.png" alt="" width="624" height="907" /></a></p>

@@ -1,18 +1,23 @@
 ---
-layout: media
-title: "Save the trees"
-modified:
-categories: past-issues
-excerpt:
-tags: []
-image:
-  feature:
-  teaser:
-  thumb:
-date: 2015-05-28T21:37:26+10:00
+layout: post
+status: publish
+published: true
+title: Save the trees
+author:
+  display_name: Waranga News
+  login: admin
+  email: fortuna@micronode.com
+  url: ''
+author_login: admin
+author_email: fortuna@micronode.com
+wordpress_id: 1125
+wordpress_url: http://wnews.org.au/?p=1125
+date: '2015-05-28 23:17:57 +1000'
+date_gmt: '2015-05-28 13:17:57 +1000'
+categories:
+- Past Issues
+tags:
+- Front Page
+comments: []
 ---
-
-[![alt text][image]][pdf]
-
-[image]: {{ site.url }}/images/2015/05/wnews20150528P01.jpg "Front Page - May 28, 2015"
-[pdf]: {{ site.url }}/images/2015/05/wnews20150528P01.pdf
+<p><a href="http://wnews.org.au/wp-content/uploads/2015/06/wnews20150528P01.pdf"><img class="alignnone size-full wp-image-1119" src="http://wnews.org.au/wp-content/uploads/2015/06/wnews20150528P01.jpg" alt="Front Page - May 28, 2015" width="624" height="907" /></a></p>

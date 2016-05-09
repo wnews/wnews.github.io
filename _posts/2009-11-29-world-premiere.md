@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: World Premiere
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=60
 date: '2009-11-29 16:14:00 +1100'
 date_gmt: '2009-11-29 05:14:00 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  feature: /s/9jphmu2xo8h0sje/page-01-ind.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2009/11/page-01-ind.jpg"><img class="alignnone size-large wp-image-61" style="border: 0pt none;" title="page 01 ind" src="{{ site.url }}/images/2009/11/page-01-ind-703x1024.jpg" alt="page 01 ind" width="562" height="819" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2009/11/page-01-ind.jpg"><img class="alignnone size-large wp-image-61" style="border: 0pt none;" title="page 01 ind" src="http://wnews.org.au/wp-content/uploads/2009/11/page-01-ind-703x1024.jpg" alt="page 01 ind" width="562" height="819" /></a></p>

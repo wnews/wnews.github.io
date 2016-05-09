@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Top hospitality award
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=1081
 date: '2014-11-27 23:54:21 +1100'
 date_gmt: '2014-11-27 12:54:21 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2014/11/wnews20141127P01-188x188.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2015/01/wnews20141127P01.pdf"><img class="alignnone size-full wp-image-1077" alt="Front Page - November 27, 2014" src="{{ site.url }}/images/2015/01/wnews20141127P01.jpg" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2015/01/wnews20141127P01.pdf"><img class="alignnone size-full wp-image-1077" alt="Front Page - November 27, 2014" src="http://wnews.org.au/wp-content/uploads/2015/01/wnews20141127P01.jpg" width="624" height="907" /></a></p>

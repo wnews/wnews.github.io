@@ -1,9 +1,5 @@
 ---
-layout: media
-date:   2014-04-06 23:26:12
-photo: 2015/04/wnews20150416P01.jpg
-caption_header: Easter reflection
-caption: sample caption
+layout: post
 status: publish
 published: true
 title: Easter reflection
@@ -19,13 +15,9 @@ wordpress_url: http://wnews.org.au/?p=1110
 date: '2015-04-16 20:52:22 +1000'
 date_gmt: '2015-04-16 10:52:22 +1000'
 categories:
-- Past-Issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2015/04/wnews20150416P01-188x188.jpg
-  feature: 2015/04/wnews20150416P01-800x300.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2015/04/wnews20150416P01.pdf"><img class="alignnone size-full wp-image-1104" src="{{ site.url }}/images/2015/04/wnews20150416P01.jpg" alt="Front Page - April 16, 2015" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2015/04/wnews20150416P01.pdf"><img class="alignnone size-full wp-image-1104" src="http://wnews.org.au/wp-content/uploads/2015/04/wnews20150416P01.jpg" alt="Front Page - April 16, 2015" width="624" height="907" /></a></p>

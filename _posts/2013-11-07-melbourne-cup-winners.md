@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Melbourne Cup Winners
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=873
 date: '2013-11-07 00:23:59 +1100'
 date_gmt: '2013-11-06 13:23:59 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/11/frontpage-20131107-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/11/frontpage-20131107.pdf"><img class="alignnone size-full wp-image-868" alt="Front Page - November 7, 2013" src="{{ site.url }}/images/2013/11/frontpage-20131107.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/11/frontpage-20131107.pdf"><img class="alignnone size-full wp-image-868" alt="Front Page - November 7, 2013" src="http://wnews.org.au/wp-content/uploads/2013/11/frontpage-20131107.png" width="624" height="907" /></a></p>

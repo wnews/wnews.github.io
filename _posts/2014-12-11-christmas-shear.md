@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Christmas shear
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=1083
 date: '2014-12-11 23:58:09 +1100'
 date_gmt: '2014-12-11 12:58:09 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2014/12/Wnews20141211P01-188x188.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2015/01/Wnews20141211P01.pdf"><img class="alignnone size-full wp-image-1078" alt="Front Page - December 12, 2014" src="{{ site.url }}/images/2015/01/Wnews20141211P01.jpg" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2015/01/Wnews20141211P01.pdf"><img class="alignnone size-full wp-image-1078" alt="Front Page - December 12, 2014" src="http://wnews.org.au/wp-content/uploads/2015/01/Wnews20141211P01.jpg" width="624" height="907" /></a></p>

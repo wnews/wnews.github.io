@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Hello possums
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=882
 date: '2013-12-05 23:18:51 +1100'
 date_gmt: '2013-12-05 12:18:51 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/12/frontpage-20131205-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/12/frontpage-20131205.pdf"><img class="alignnone size-full wp-image-880" alt="Front Page - December 5, 2013" src="{{ site.url }}/images/2013/12/frontpage-20131205.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/12/frontpage-20131205.pdf"><img class="alignnone size-full wp-image-880" alt="Front Page - December 5, 2013" src="http://wnews.org.au/wp-content/uploads/2013/12/frontpage-20131205.png" width="624" height="907" /></a></p>

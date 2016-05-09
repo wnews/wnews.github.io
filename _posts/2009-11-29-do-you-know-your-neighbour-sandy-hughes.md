@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Do you know your neighbour ~ Sandy Hughes
@@ -15,13 +15,10 @@ wordpress_url: http://wnews.org.au/?p=64
 date: '2009-11-29 16:17:06 +1100'
 date_gmt: '2009-11-29 05:17:06 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Articles
 - Know Your Neigbour
-comments: true
-image:
-  feature: /s/xpai8upgc8l8axc/snady-hughes.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2009/11/snady-hughes.jpg"><img class="alignnone size-large wp-image-65" style="border: 0pt none;" title="sandy hughes" alt="sandy hughes" src="{{ site.url }}/images/2009/11/snady-hughes-703x1024.jpg" width="562" height="819" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2009/11/snady-hughes.jpg"><img class="alignnone size-large wp-image-65" style="border: 0pt none;" title="sandy hughes" alt="sandy hughes" src="http://wnews.org.au/wp-content/uploads/2009/11/snady-hughes-703x1024.jpg" width="562" height="819" /></a></p>

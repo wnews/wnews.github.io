@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Dynamite Students
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=115
 date: '2010-07-25 18:39:12 +1000'
 date_gmt: '2010-07-25 08:39:12 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  feature: /s/91ra4c828n0hscs/10-June-2010.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2010/07/10-June-2010.jpg"><img class="alignnone size-full wp-image-112" title="10 June 2010" src="{{ site.url }}/images/2010/07/10-June-2010.jpg" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2010/07/10-June-2010.jpg"><img class="alignnone size-full wp-image-112" title="10 June 2010" src="http://wnews.org.au/wp-content/uploads/2010/07/10-June-2010.jpg" alt="" width="624" height="907" /></a></p>

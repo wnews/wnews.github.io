@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Busy kinder kids
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=906
 date: '2014-02-20 00:00:46 +1100'
 date_gmt: '2014-02-19 13:00:46 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2014/02/wnews20140220p01-188x188.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2014/02/wnews20140220p01.pdf"><img class="alignnone size-full wp-image-904" alt="Front Page - February 20, 2014" src="{{ site.url }}/images/2014/02/wnews20140220p01.jpg" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2014/02/wnews20140220p01.pdf"><img class="alignnone size-full wp-image-904" alt="Front Page - February 20, 2014" src="http://wnews.org.au/wp-content/uploads/2014/02/wnews20140220p01.jpg" width="624" height="907" /></a></p>

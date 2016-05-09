@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Co-op support for local schools
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=811
 date: '2013-08-01 00:09:33 +1000'
 date_gmt: '2013-07-31 14:09:33 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/08/frontpage-20130801-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/08/frontpage-20130801.pdf"><img class="alignnone size-full wp-image-805" alt="Front Page - August 01, 2013" src="{{ site.url }}/images/2013/08/frontpage-20130801.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/08/frontpage-20130801.pdf"><img class="alignnone size-full wp-image-805" alt="Front Page - August 01, 2013" src="http://wnews.org.au/wp-content/uploads/2013/08/frontpage-20130801.png" width="624" height="907" /></a></p>

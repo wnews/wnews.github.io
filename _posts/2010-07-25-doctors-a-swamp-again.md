@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Doctor's A Swamp Again
@@ -15,7 +15,7 @@ wordpress_url: http://wnews.org.au/?p=122
 date: '2010-07-25 18:40:15 +1000'
 date_gmt: '2010-07-25 08:40:15 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
 comments:
@@ -31,8 +31,5 @@ comments:
     expecting new doctors to come in and resume practising, but unfortunately that
     hasn't happened.  This service information has now been updated and thank you
     for bringing it to our attention.
-image:
-  feature: /s/jn7xelwktqacopv/July-22-2010.jpg
 ---
-
-<a href="{{ site.url }}/images/2010/07/July-22-2010.jpg"><img class="alignnone size-full wp-image-114" title="July 22, 2010" src="{{ site.url }}/images/2010/07/July-22-2010.jpg" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2010/07/July-22-2010.jpg"><img class="alignnone size-full wp-image-114" title="July 22, 2010" src="http://wnews.org.au/wp-content/uploads/2010/07/July-22-2010.jpg" alt="" width="624" height="907" /></a></p>

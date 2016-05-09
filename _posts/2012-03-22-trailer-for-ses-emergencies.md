@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Trailer for SES Emergencies
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=564
 date: '2012-03-22 11:21:27 +1100'
 date_gmt: '2012-03-22 00:21:27 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2012/04/frontpage-20120422-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2012/04/frontpage-20120422.pdf"><img class="alignnone size-full wp-image-560" title="Front Page - 22 March, 2012" src="{{ site.url }}/images/2012/04/frontpage-20120422.png" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2012/04/frontpage-20120422.pdf"><img class="alignnone size-full wp-image-560" title="Front Page - 22 March, 2012" src="http://wnews.org.au/wp-content/uploads/2012/04/frontpage-20120422.png" alt="" width="624" height="907" /></a></p>

@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Stanhope Premier Netballers
@@ -15,13 +15,9 @@ wordpress_url: http://wnews.org.au/?p=435
 date: '2011-10-06 00:12:27 +1100'
 date_gmt: '2011-10-05 13:12:27 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2011/10/frontpage-20111006-188x188.png
-  feature: /s/j8q8a12np9ozvbl/frontpage-20111006.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2011/10/frontpage-20111006.pdf"><img class="alignnone size-full wp-image-433" title="Front Page - October 6, 2011" src="{{ site.url }}/images/2011/10/frontpage-20111006.png" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2011/10/frontpage-20111006.pdf"><img class="alignnone size-full wp-image-433" title="Front Page - October 6, 2011" src="http://wnews.org.au/wp-content/uploads/2011/10/frontpage-20111006.png" alt="" width="624" height="907" /></a></p>

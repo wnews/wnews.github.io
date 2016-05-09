@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Rallying to support local co-op
@@ -15,13 +15,9 @@ wordpress_url: http://wnews.org.au/?p=508
 date: '2011-12-01 19:37:35 +1100'
 date_gmt: '2011-12-01 08:37:35 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2011/12/frontpage-20111201-188x188.png
-  feature: /s/tzp3s0b1i518y13/frontpage-20111201.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2011/12/frontpage-20111201.pdf"><img class="alignnone size-full wp-image-504" title="Front Page - December 1, 2011" src="{{ site.url }}/images/2011/12/frontpage-20111201.png" alt="" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2011/12/frontpage-20111201.pdf"><img class="alignnone size-full wp-image-504" title="Front Page - December 1, 2011" src="http://wnews.org.au/wp-content/uploads/2011/12/frontpage-20111201.png" alt="" width="624" height="907" /></a></p>

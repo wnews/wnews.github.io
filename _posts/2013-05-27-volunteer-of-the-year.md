@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Volunteer of the Year
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=777
 date: '2013-05-27 01:07:41 +1000'
 date_gmt: '2013-05-26 15:07:41 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/05/frontpage-20130523-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/05/frontpage-20130523.pdf"><img class="alignnone size-full wp-image-770" alt="Front Page - May 23, 2013" src="{{ site.url }}/images/2013/05/frontpage-20130523.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/05/frontpage-20130523.pdf"><img class="alignnone size-full wp-image-770" alt="Front Page - May 23, 2013" src="http://wnews.org.au/wp-content/uploads/2013/05/frontpage-20130523.png" width="624" height="907" /></a></p>

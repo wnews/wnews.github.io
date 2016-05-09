@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Lest We Forget
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=764
 date: '2013-04-25 17:50:52 +1000'
 date_gmt: '2013-04-25 07:50:52 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/04/frontpage-20130425-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/04/frontpage-20130425.pdf"><img class="alignnone size-full wp-image-761" alt="Front Page - April 25, 2013" src="{{ site.url }}/images/2013/04/frontpage-20130425.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/04/frontpage-20130425.pdf"><img class="alignnone size-full wp-image-761" alt="Front Page - April 25, 2013" src="http://wnews.org.au/wp-content/uploads/2013/04/frontpage-20130425.png" width="624" height="907" /></a></p>

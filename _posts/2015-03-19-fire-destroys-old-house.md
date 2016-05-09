@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Fire destroys old house
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=1101
 date: '2015-03-19 23:10:00 +1100'
 date_gmt: '2015-03-19 12:10:00 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2015/03/wnews20150319P01-188x188.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2015/03/wnews20150319P01.pdf"><img class="alignnone size-full wp-image-1091" alt="Front Page - March 19, 2015" src="{{ site.url }}/images/2015/03/wnews20150319P01.jpg" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2015/03/wnews20150319P01.pdf"><img class="alignnone size-full wp-image-1091" alt="Front Page - March 19, 2015" src="http://wnews.org.au/wp-content/uploads/2015/03/wnews20150319P01.jpg" width="624" height="907" /></a></p>

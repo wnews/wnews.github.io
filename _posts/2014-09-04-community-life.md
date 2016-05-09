@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Community life
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=1050
 date: '2014-09-04 10:41:47 +1000'
 date_gmt: '2014-09-04 00:41:47 +1000'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2015/04/wnews20140904P01-188x188.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2014/09/wnews20140904P01.pdf"><img class="alignnone size-full wp-image-1048" alt="Front Page - September 4, 2014" src="{{ site.url }}/images/2014/09/wnews20140904P01.jpg" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2014/09/wnews20140904P01.pdf"><img class="alignnone size-full wp-image-1048" alt="Front Page - September 4, 2014" src="http://wnews.org.au/wp-content/uploads/2014/09/wnews20140904P01.jpg" width="624" height="907" /></a></p>

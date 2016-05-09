@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: New home for CFA
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=865
 date: '2013-10-24 19:30:00 +1100'
 date_gmt: '2013-10-24 08:30:00 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  teaser: 2013/10/frontpage-20131024-188x188.png
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2013/10/frontpage-20131024.pdf"><img class="alignnone size-full wp-image-864" alt="Front Page - October 24, 2013" src="{{ site.url }}/images/2013/10/frontpage-20131024.png" width="624" height="907" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2013/10/frontpage-20131024.pdf"><img class="alignnone size-full wp-image-864" alt="Front Page - October 24, 2013" src="http://wnews.org.au/wp-content/uploads/2013/10/frontpage-20131024.png" width="624" height="907" /></a></p>

@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 status: publish
 published: true
 title: Rushworth Blooms
@@ -15,12 +15,9 @@ wordpress_url: http://wnews.org.au/?p=56
 date: '2009-11-29 16:11:45 +1100'
 date_gmt: '2009-11-29 05:11:45 +1100'
 categories:
-- past-issues
+- Past Issues
 tags:
 - Front Page
-comments: true
-image:
-  feature: /s/vqaqnd5avscqe50/Page-01-small-file-size.jpg
+comments: []
 ---
-
-<a href="{{ site.url }}/images/2009/11/Page-01-small-file-size.jpg"><img class="alignnone size-large wp-image-57" style="border: 0pt none;" title="Page 01 small file size" src="{{ site.url }}/images/2009/11/Page-01-small-file-size-704x1024.jpg" alt="Page 01 small file size" width="563" height="819" /></a>
+<p><a href="http://wnews.org.au/wp-content/uploads/2009/11/Page-01-small-file-size.jpg"><img class="alignnone size-large wp-image-57" style="border: 0pt none;" title="Page 01 small file size" src="http://wnews.org.au/wp-content/uploads/2009/11/Page-01-small-file-size-704x1024.jpg" alt="Page 01 small file size" width="563" height="819" /></a></p>
