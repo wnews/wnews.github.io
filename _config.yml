@@ -5,10 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+host: 0.0.0.0
+
 # Site settings
 title: Waranga News
 email: contact@wnews.org.au
 description: Serving the Waranga community for over 30 years
+banner: logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wnews.github.io" # the base hostname & protocol for your site
 twitter_username: WarangaNews
