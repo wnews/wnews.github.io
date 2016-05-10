@@ -12,3 +12,12 @@ body {
 .wnews-navbar-brand {
     padding-left: 65px;
 }
+
+.wnews-navbar-link-em a {
+    color: crimson !important;
+}
+
+.wnews-list-nostyle {
+    list-style: none;
+    padding-left: 0;
+}
