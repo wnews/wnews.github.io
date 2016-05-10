@@ -1,0 +1,14 @@
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+}
+
+.wnews-navbar-header {
+    background-image: url("../images/wnews.png");
+    background-size: 42px 42px;
+    background-repeat: no-repeat;
+}
+
+.wnews-navbar-brand {
+    padding-left: 65px;
+}
