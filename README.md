@@ -1,2 +1,2 @@
 # wnews.github.io
-Waranga News site
+Waranga News site template

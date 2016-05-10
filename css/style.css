@@ -1,0 +1,28 @@
+body {
+    /*min-height: 2000px;*/
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.wnews-navbar-header {
+    background-image: url("../images/wnews.png");
+    background-size: 42px 42px;
+    background-repeat: no-repeat;
+}
+
+.wnews-navbar-brand {
+    padding-left: 65px;
+}
+
+.wnews-navbar-link-em a {
+    color: crimson !important;
+}
+
+.wnews-list-nostyle {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer {
+    text-align: center;
+}
