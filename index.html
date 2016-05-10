@@ -19,6 +19,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/grid.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -50,7 +51,7 @@
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li class="dropdown">
+            <li class="wnews-navbar-link-em dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Advertising <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="#">Action</a></li>
@@ -74,14 +75,38 @@
 
     <div class="container">
 
-      <!-- Main component for a primary marketing message or call to action -->
-      <div class="jumbotron">
-        <h1>Navbar example</h1>
-        <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
-        <p>To see the difference between static and fixed top navbars, just scroll.</p>
-        <p>
-          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
-        </p>
+      <div class="row">
+        <div class="col-md-8">
+          .col-md-8
+          <div class="row">
+            <div class="col-md-6">.col-md-6</div>
+            <div class="col-md-6">.col-md-6</div>
+          </div>
+        </div>
+        <div class="col-md-4">.col-md-4</div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <p>Related sites</p>
+          <ul class="wnews-list-nostyle">
+            <li><a href="http://cnav.org.au" title="Community Newspaper Association of Victoria">Community Newspaper Association of Victoria</a></li>
+            <li><a href="http://www.rushcomhouse.org.au/">Rushworth Community House</a></li>
+            <li><a href="http://rushwortheasterfestival.org.au/">Rushworth Easter Heritage Festival</a></li>
+            <li><a href="http://rushworthmuseum.wordpress.com/" target="_blank">Rushworth Museum</a></li>
+            <li><a href="http://catalogue.nla.gov.au/Record/2813071" title="Archived Issues">Waranga News @ National Library of Australia</a></li>
+            <li><a href="http://whistlepost.org.au" rel="me" title="Community Forums" target="_blank">Whistlepost</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <p>Past issues</p>
+        </div>
+        <div class="col-md-3">
+          <p>Regional news</p>
+        </div>
+        <div class="col-md-3">
+          <p>Weather</p>
+        </div>
       </div>
 
     </div> <!-- /container -->
