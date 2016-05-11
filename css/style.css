@@ -23,6 +23,11 @@ body {
     padding-left: 0;
 }
 
+.feature-article .first-word {
+    font-family: garamond serif;
+    font-size: 2em;
+}
+
 footer {
     text-align: center;
 }
